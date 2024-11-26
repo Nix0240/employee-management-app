@@ -1,0 +1,14 @@
+.employee-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .employee-form div {
+    margin-bottom: 16px;
+  }
+  
+  .employee-form .form-actions {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 16px;
+  }
